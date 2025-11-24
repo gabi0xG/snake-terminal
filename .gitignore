@@ -426,3 +426,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.sln
+Snake/Snake.vcxproj
+Snake/Snake.vcxproj.filters
