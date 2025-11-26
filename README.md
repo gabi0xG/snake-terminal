@@ -32,7 +32,7 @@ The main objective is to survive as long as possible while maximizing the score 
 ## 🧱 Visual example in terminal
 
 ```text
-+--------------------+
+ --------------------
 |       O            |
 |                    |
 |     xxxX           |
@@ -43,7 +43,7 @@ The main objective is to survive as long as possible while maximizing the score 
 |                    |
 |                    |
 |                    |
-+--------------------+
+ --------------------
 
 O = food  
 Xx = snake body
